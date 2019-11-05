@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "qtglobal": "cpp",
+        "type_traits": "cpp",
+        "qapplication": "cpp",
+        "qdir": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "qtwidgets": "cpp"
+    }
+}

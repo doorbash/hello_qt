@@ -1,0 +1,7 @@
+*.exe
+*.obj
+Makefile.Debug
+Makefile
+Makefile.Release
+.qmake.stash
+debug/application.vc.pdb
